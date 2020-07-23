@@ -4,6 +4,8 @@ pizza
 burger
 Chicken Fry
 
+Pasta
+kheer
 
 
 
